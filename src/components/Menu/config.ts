@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://taco.finance/',
+    href: 'https://cripto-fan-token.vercel.app/',
   },
   {
     label: 'Trade',
@@ -12,23 +12,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.taco.finance/',
+        href: 'https://criptofanamm.vercel.app/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.taco.finance/#/pool',
+        href: 'https://criptofanamm.vercel.app/#/swap',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://taco.finance/farms',
+    href: 'https://cripto-fan-token.vercel.app/farms',
   },
   {
     label: 'Trucks',
     icon: 'PoolIcon',
-    href: 'https://taco.finance/trucks',
+    href: 'https://cripto-fan-token.vercel.app/pools',
   },
   // {
   //   label: 'Pools',
@@ -51,19 +51,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x9066e87Bac891409D690cfEfA41379b34af06391',
+        href: 'https://pancakeswap.info/token/',
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/taco-finance',
+        href: 'https://www.coingecko.com/en/coins/',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/taco-finance/',
+        href: 'https://coinmarketcap.com/currencies/',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x3BB3B98c0FABE30166E6B7D62aEef393249871E4', // taco-busd
+        href: 'https://app.astrotools.io/pancake-pair-explorer/', // taco-busd
       },
     ],
   },
@@ -73,26 +73,26 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Hacken Audit',
-        href: 'https://taco.finance/files/TacoSwap_SC_Audit_Report.pdf',
+        href: 'https://cryptofan.finance/',
       },
       {
         label: 'Github',
-        href: 'https://github.com/tacofinance/',
+        href: 'https://github.com/',
       },
       {
         label: 'Docs',
-        href: 'https://taco-finance.gitbook.io/taco-finance/',
+        href: 'https://criptofan.com.br/wp-content/uploads/2022/07/LitePaper-1.0.pdf',
       },
       {
         label: 'Blog',
-        href: 'https://taco-finance.medium.com/',
+        href: 'https://medium.com/',
       },
     ],
   },
   {
     label: 'Hacken Audit',
     icon: 'AuditIcon',
-    href: 'https://taco.finance/files/TacoSwap_SC_Audit_Report.pdf',
+    href: 'https://criptofan.com.br/wp-content/uploads/2022/07/LitePaper-1.0.pdf',
   },
 ]
 
