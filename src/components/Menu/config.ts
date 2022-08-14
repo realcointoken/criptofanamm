@@ -90,7 +90,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Hacken Audit',
+    label: 'Website',
     icon: 'AuditIcon',
     href: 'https://cryptofan.finance/',
   },
