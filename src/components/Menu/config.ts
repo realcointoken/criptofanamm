@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     href: 'https://cripto-fan-token.vercel.app/farms',
   },
   {
-    label: 'Trucks',
+    label: 'Pools',
     icon: 'PoolIcon',
     href: 'https://cripto-fan-token.vercel.app/pools',
   },
