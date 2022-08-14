@@ -16,7 +16,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Liquidity',
-        href: 'https://criptofanamm.vercel.app/#/swap',
+        href: 'https://criptofanamm.vercel.app/#/pools',
       },
     ],
   },
