@@ -12,23 +12,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://criptofanamm.vercel.app/#/swap',
+        href: 'https://exchange.cryptofan.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://criptofanamm.vercel.app/#/pool',
+        href: 'https://exchange.cryptofan.finance/#/pool',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://cripto-fan-token.vercel.app/farms',
+    href: 'https://exchange.cryptofan.finance/#/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://cripto-fan-token.vercel.app/pools',
+    href: 'https://exchange.cryptofan.finance/#/pools',
   },
   // {
   //   label: 'Pools',
