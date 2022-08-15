@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://cripto-fan-token.vercel.app/',
+    href: 'https://staking.cryptofan.finance/',
   },
   {
     label: 'Trade',
@@ -23,12 +23,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://exchange.cryptofan.finance/#/farms',
+    href: 'https://staking.cryptofan.finance/#/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://exchange.cryptofan.finance/#/pools',
+    href: 'https://staking.cryptofan.finance/#/pools',
   },
   // {
   //   label: 'Pools',
