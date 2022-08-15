@@ -16,6 +16,7 @@
       "address": "0xd5ea686Fb3E3e53A3fD29D82eC4560D375594D62",
       "chainId": 56,
       "decimals": 9
+      "logoURI": "/images/coins/CFT.png"
     },
     {
       "name": "WBNB Token",
@@ -23,6 +24,7 @@
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "chainId": 56,
       "decimals": 18
+      "logoURI": "/images/coins/wbnb.png"
     },
     {
       "name": "BUSD Token",
