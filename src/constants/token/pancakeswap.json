@@ -64,5 +64,34 @@
       "decimals": 18,
       "logoURI": "/images/coins/XRP-icon.png"
     },
+    {
+      "name": "Litecoin Token",
+      "symbol": "LTC",
+      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/LTC-icon.png"
+    },
+    {
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Zcash Token",
+      "symbol": "ZEC",
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "chainId": 56,
+      "decimals": 18
+    }
   ]
 }
